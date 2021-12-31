@@ -11,6 +11,17 @@
 11. dat hang
 12. huy dat hang
 13. xem hang hoa
-13. them hang hoa
-13. chinh sua hang hoa
-13. xoa hang hoa
+14. them hang hoa
+15. chinh sua hang hoa
+16. xoa hang hoa
+17. tao hoa don
+18. in hoa don
+19. xem hoá đơn
+20. chinh sua hoá đơn
+21. xoa hoá đơn
+22. thanh toan luong
+23. thanh toan don dat hang
+24. thong ke doanh thu theo ngay
+25. thong ke doanh thu theo thang
+26. thong ke doanh thu theo quy
+27. thong ke doanh thu theo nam
