@@ -1,0 +1,16 @@
+1.   dang nhap
+2.   dang xuat
+3.   doi mat khau
+4.   dang ky
+5.   tich diem
+6.   doi diem
+7.   xem nhan vien
+8.   them nhan vien
+9.   chinh sua nhan vien
+10. xoa nhan vien
+11. dat hang
+12. huy dat hang
+13. xem hang hoa
+13. them hang hoa
+13. chinh sua hang hoa
+13. xoa hang hoa
