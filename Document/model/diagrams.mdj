@@ -1,7 +1,7 @@
 {
 	"_type": "Project",
 	"_id": "AAAAAAFF+h6SjaM2Hec=",
-	"name": "Untitled",
+	"name": "Diagrams",
 	"ownedElements": [
 		{
 			"_type": "UMLModel",
@@ -9,7 +9,7 @@
 			"_parent": {
 				"$ref": "AAAAAAFF+h6SjaM2Hec="
 			},
-			"name": "Usecase",
+			"name": "Use Case",
 			"ownedElements": [
 				{
 					"_type": "UMLUseCaseDiagram",
@@ -74,9 +74,9 @@
 											"font": "Arial;13;0",
 											"left": -496,
 											"top": -64,
-											"width": 88.84814453125,
+											"width": 95.34814453125,
 											"height": 13,
-											"text": "(from Usecase)"
+											"text": "(from Use Case)"
 										},
 										{
 											"_type": "LabelView",
@@ -254,9 +254,9 @@
 											"font": "Arial;13;0",
 											"left": 2048,
 											"top": -496,
-											"width": 88.84814453125,
+											"width": 95.34814453125,
 											"height": 13,
-											"text": "(from Usecase)"
+											"text": "(from Use Case)"
 										},
 										{
 											"_type": "LabelView",
@@ -435,9 +435,9 @@
 											"font": "Arial;13;0",
 											"left": -976,
 											"top": -112,
-											"width": 88.84814453125,
+											"width": 95.34814453125,
 											"height": 13,
-											"text": "(from Usecase)"
+											"text": "(from Use Case)"
 										},
 										{
 											"_type": "LabelView",
@@ -616,9 +616,9 @@
 											"font": "Arial;13;0",
 											"left": 1488,
 											"top": 880,
-											"width": 88.84814453125,
+											"width": 95.34814453125,
 											"height": 13,
-											"text": "(from Usecase)"
+											"text": "(from Use Case)"
 										},
 										{
 											"_type": "LabelView",
@@ -796,9 +796,9 @@
 											"font": "Arial;13;0",
 											"left": -512,
 											"top": 592,
-											"width": 88.84814453125,
+											"width": 95.34814453125,
 											"height": 13,
-											"text": "(from Usecase)"
+											"text": "(from Use Case)"
 										},
 										{
 											"_type": "LabelView",
@@ -976,9 +976,9 @@
 											"font": "Arial;13;0",
 											"left": -646,
 											"top": -63,
-											"width": 88.84814453125,
+											"width": 95.34814453125,
 											"height": 13,
-											"text": "(from Usecase)"
+											"text": "(from Use Case)"
 										},
 										{
 											"_type": "LabelView",
@@ -1175,9 +1175,9 @@
 											"font": "Arial;13;0",
 											"left": 272,
 											"top": -448,
-											"width": 88.84814453125,
+											"width": 95.34814453125,
 											"height": 13,
-											"text": "(from Usecase)"
+											"text": "(from Use Case)"
 										},
 										{
 											"_type": "LabelView",
@@ -1374,9 +1374,9 @@
 											"font": "Arial;13;0",
 											"left": -48,
 											"top": -800,
-											"width": 88.84814453125,
+											"width": 95.34814453125,
 											"height": 13,
-											"text": "(from Usecase)"
+											"text": "(from Use Case)"
 										},
 										{
 											"_type": "LabelView",
@@ -1573,9 +1573,9 @@
 											"font": "Arial;13;0",
 											"left": -144,
 											"top": 544,
-											"width": 88.84814453125,
+											"width": 95.34814453125,
 											"height": 13,
-											"text": "(from Usecase)"
+											"text": "(from Use Case)"
 										},
 										{
 											"_type": "LabelView",
@@ -1772,9 +1772,9 @@
 											"font": "Arial;13;0",
 											"left": 32,
 											"top": 496,
-											"width": 88.84814453125,
+											"width": 95.34814453125,
 											"height": 13,
-											"text": "(from Usecase)"
+											"text": "(from Use Case)"
 										},
 										{
 											"_type": "LabelView",
@@ -1972,9 +1972,9 @@
 											"font": "Arial;13;0",
 											"left": 480,
 											"top": 128,
-											"width": 88.84814453125,
+											"width": 95.34814453125,
 											"height": 13,
-											"text": "(from Usecase)"
+											"text": "(from Use Case)"
 										},
 										{
 											"_type": "LabelView",
@@ -2173,9 +2173,9 @@
 											"font": "Arial;13;0",
 											"left": 144,
 											"top": -48,
-											"width": 88.84814453125,
+											"width": 95.34814453125,
 											"height": 13,
-											"text": "(from Usecase)"
+											"text": "(from Use Case)"
 										},
 										{
 											"_type": "LabelView",
@@ -2374,9 +2374,9 @@
 											"font": "Arial;13;0",
 											"left": -64,
 											"top": -464,
-											"width": 88.84814453125,
+											"width": 95.34814453125,
 											"height": 13,
-											"text": "(from Usecase)"
+											"text": "(from Use Case)"
 										},
 										{
 											"_type": "LabelView",
@@ -2575,9 +2575,9 @@
 											"font": "Arial;13;0",
 											"left": -192,
 											"top": -144,
-											"width": 88.84814453125,
+											"width": 95.34814453125,
 											"height": 13,
-											"text": "(from Usecase)"
+											"text": "(from Use Case)"
 										},
 										{
 											"_type": "LabelView",
@@ -2776,9 +2776,9 @@
 											"font": "Arial;13;0",
 											"left": -32,
 											"top": -176,
-											"width": 88.84814453125,
+											"width": 95.34814453125,
 											"height": 13,
-											"text": "(from Usecase)"
+											"text": "(from Use Case)"
 										},
 										{
 											"_type": "LabelView",
@@ -2977,9 +2977,9 @@
 											"font": "Arial;13;0",
 											"left": 576,
 											"top": -864,
-											"width": 88.84814453125,
+											"width": 95.34814453125,
 											"height": 13,
-											"text": "(from Usecase)"
+											"text": "(from Use Case)"
 										},
 										{
 											"_type": "LabelView",
@@ -3178,9 +3178,9 @@
 											"font": "Arial;13;0",
 											"left": 336,
 											"top": -1184,
-											"width": 88.84814453125,
+											"width": 95.34814453125,
 											"height": 13,
-											"text": "(from Usecase)"
+											"text": "(from Use Case)"
 										},
 										{
 											"_type": "LabelView",
@@ -3378,9 +3378,9 @@
 											"font": "Arial;13;0",
 											"left": 304,
 											"top": -432,
-											"width": 88.84814453125,
+											"width": 95.34814453125,
 											"height": 13,
-											"text": "(from Usecase)"
+											"text": "(from Use Case)"
 										},
 										{
 											"_type": "LabelView",
@@ -3577,9 +3577,9 @@
 											"font": "Arial;13;0",
 											"left": 288,
 											"top": -112,
-											"width": 88.84814453125,
+											"width": 95.34814453125,
 											"height": 13,
-											"text": "(from Usecase)"
+											"text": "(from Use Case)"
 										},
 										{
 											"_type": "LabelView",
@@ -3776,9 +3776,9 @@
 											"font": "Arial;13;0",
 											"left": -256,
 											"top": -112,
-											"width": 88.84814453125,
+											"width": 95.34814453125,
 											"height": 13,
-											"text": "(from Usecase)"
+											"text": "(from Use Case)"
 										},
 										{
 											"_type": "LabelView",
@@ -3975,9 +3975,9 @@
 											"font": "Arial;13;0",
 											"left": 32,
 											"top": -528,
-											"width": 88.84814453125,
+											"width": 95.34814453125,
 											"height": 13,
-											"text": "(from Usecase)"
+											"text": "(from Use Case)"
 										},
 										{
 											"_type": "LabelView",
@@ -4175,9 +4175,9 @@
 											"font": "Arial;13;0",
 											"left": 16,
 											"top": -528,
-											"width": 88.84814453125,
+											"width": 95.34814453125,
 											"height": 13,
-											"text": "(from Usecase)"
+											"text": "(from Use Case)"
 										},
 										{
 											"_type": "LabelView",
@@ -4376,9 +4376,9 @@
 											"font": "Arial;13;0",
 											"left": 64,
 											"top": -496,
-											"width": 88.84814453125,
+											"width": 95.34814453125,
 											"height": 13,
-											"text": "(from Usecase)"
+											"text": "(from Use Case)"
 										},
 										{
 											"_type": "LabelView",
@@ -4577,9 +4577,9 @@
 											"font": "Arial;13;0",
 											"left": 32,
 											"top": -400,
-											"width": 88.84814453125,
+											"width": 95.34814453125,
 											"height": 13,
-											"text": "(from Usecase)"
+											"text": "(from Use Case)"
 										},
 										{
 											"_type": "LabelView",
@@ -4777,9 +4777,9 @@
 											"font": "Arial;13;0",
 											"left": -608,
 											"top": -16,
-											"width": 88.84814453125,
+											"width": 95.34814453125,
 											"height": 13,
-											"text": "(from Usecase)"
+											"text": "(from Use Case)"
 										},
 										{
 											"_type": "LabelView",
@@ -4976,9 +4976,9 @@
 											"font": "Arial;13;0",
 											"left": -448,
 											"top": -48,
-											"width": 88.84814453125,
+											"width": 95.34814453125,
 											"height": 13,
-											"text": "(from Usecase)"
+											"text": "(from Use Case)"
 										},
 										{
 											"_type": "LabelView",
@@ -5175,9 +5175,9 @@
 											"font": "Arial;13;0",
 											"left": -192,
 											"top": 32,
-											"width": 88.84814453125,
+											"width": 95.34814453125,
 											"height": 13,
-											"text": "(from Usecase)"
+											"text": "(from Use Case)"
 										},
 										{
 											"_type": "LabelView",
@@ -5375,9 +5375,9 @@
 											"font": "Arial;13;0",
 											"left": -224,
 											"top": 32,
-											"width": 88.84814453125,
+											"width": 95.34814453125,
 											"height": 13,
-											"text": "(from Usecase)"
+											"text": "(from Use Case)"
 										},
 										{
 											"_type": "LabelView",
@@ -5575,9 +5575,9 @@
 											"font": "Arial;13;0",
 											"left": -416,
 											"top": -272,
-											"width": 88.84814453125,
+											"width": 95.34814453125,
 											"height": 13,
-											"text": "(from Usecase)"
+											"text": "(from Use Case)"
 										},
 										{
 											"_type": "LabelView",
@@ -5774,9 +5774,9 @@
 											"font": "Arial;13;0",
 											"left": 128,
 											"top": -256,
-											"width": 88.84814453125,
+											"width": 95.34814453125,
 											"height": 13,
-											"text": "(from Usecase)"
+											"text": "(from Use Case)"
 										},
 										{
 											"_type": "LabelView",
@@ -6623,9 +6623,9 @@
 											"font": "Arial;13;0",
 											"left": -64,
 											"top": -128,
-											"width": 88.84814453125,
+											"width": 95.34814453125,
 											"height": 13,
-											"text": "(from Usecase)"
+											"text": "(from Use Case)"
 										},
 										{
 											"_type": "LabelView",
@@ -9221,9 +9221,9 @@
 											"font": "Arial;13;0",
 											"left": -336,
 											"top": -208,
-											"width": 88.84814453125,
+											"width": 95.34814453125,
 											"height": 13,
-											"text": "(from Usecase)"
+											"text": "(from Use Case)"
 										},
 										{
 											"_type": "LabelView",
@@ -9610,9 +9610,9 @@
 											"font": "Arial;13;0",
 											"left": 128,
 											"top": -576,
-											"width": 88.84814453125,
+											"width": 95.34814453125,
 											"height": 13,
-											"text": "(from Usecase)"
+											"text": "(from Use Case)"
 										},
 										{
 											"_type": "LabelView",
@@ -10640,9 +10640,9 @@
 											"font": "Arial;13;0",
 											"left": 144,
 											"top": -96,
-											"width": 88.84814453125,
+											"width": 95.34814453125,
 											"height": 13,
-											"text": "(from Usecase)"
+											"text": "(from Use Case)"
 										},
 										{
 											"_type": "LabelView",
@@ -10840,9 +10840,9 @@
 											"font": "Arial;13;0",
 											"left": -688,
 											"top": -368,
-											"width": 88.84814453125,
+											"width": 95.34814453125,
 											"height": 13,
-											"text": "(from Usecase)"
+											"text": "(from Use Case)"
 										},
 										{
 											"_type": "LabelView",
@@ -11040,9 +11040,9 @@
 											"font": "Arial;13;0",
 											"left": -448,
 											"top": -416,
-											"width": 88.84814453125,
+											"width": 95.34814453125,
 											"height": 13,
-											"text": "(from Usecase)"
+											"text": "(from Use Case)"
 										},
 										{
 											"_type": "LabelView",
@@ -11524,9 +11524,9 @@
 											"font": "Arial;13;0",
 											"left": -32,
 											"top": -80,
-											"width": 88.84814453125,
+											"width": 95.34814453125,
 											"height": 13,
-											"text": "(from Usecase)"
+											"text": "(from Use Case)"
 										},
 										{
 											"_type": "LabelView",
@@ -12000,9 +12000,9 @@
 											"font": "Arial;13;0",
 											"left": 48,
 											"top": -144,
-											"width": 88.84814453125,
+											"width": 95.34814453125,
 											"height": 13,
-											"text": "(from Usecase)"
+											"text": "(from Use Case)"
 										},
 										{
 											"_type": "LabelView",
@@ -14704,22 +14704,6 @@
 					]
 				},
 				{
-					"_type": "UMLUseCaseSubject",
-					"_id": "AAAAAAF9wqCm6YVp2Po=",
-					"_parent": {
-						"$ref": "AAAAAAF9wmtMI1UD8pU="
-					},
-					"name": "UseCaseSubject1"
-				},
-				{
-					"_type": "UMLUseCaseSubject",
-					"_id": "AAAAAAF9wqDvX5HCXPk=",
-					"_parent": {
-						"$ref": "AAAAAAF9wmtMI1UD8pU="
-					},
-					"name": "usecase"
-				},
-				{
 					"_type": "UMLUseCase",
 					"_id": "AAAAAAF9wqNWXpwCFmA=",
 					"_parent": {
@@ -14914,6 +14898,60 @@
 					]
 				}
 			]
+		},
+		{
+			"_type": "UMLModel",
+			"_id": "AAAAAAF+DoXVhfB1Xk4=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "Activity",
+			"ownedElements": [
+				{
+					"_type": "UMLActivity",
+					"_id": "AAAAAAF+DoZNBPB9AEc=",
+					"_parent": {
+						"$ref": "AAAAAAF+DoXVhfB1Xk4="
+					},
+					"name": "Dang nhap",
+					"ownedElements": [
+						{
+							"_type": "UMLActivityDiagram",
+							"_id": "AAAAAAF+DoZNBPB+uSM=",
+							"_parent": {
+								"$ref": "AAAAAAF+DoZNBPB9AEc="
+							},
+							"name": "Dang nhap"
+						}
+					]
+				},
+				{
+					"_type": "UMLActivity",
+					"_id": "AAAAAAF+DogoEAOluPI=",
+					"_parent": {
+						"$ref": "AAAAAAF+DoXVhfB1Xk4="
+					},
+					"name": "Dang xuat",
+					"ownedElements": [
+						{
+							"_type": "UMLActivityDiagram",
+							"_id": "AAAAAAF+DogoEAOmWEM=",
+							"_parent": {
+								"$ref": "AAAAAAF+DogoEAOluPI="
+							},
+							"name": "Dang xuat"
+						}
+					]
+				}
+			]
+		},
+		{
+			"_type": "UMLModel",
+			"_id": "AAAAAAF+DoYFHPB5Ot0=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "Sequence"
 		}
 	]
 }
