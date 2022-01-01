@@ -19976,7 +19976,7 @@
 													"left": 117,
 													"top": 255,
 													"width": 143.60302734375,
-													"height": 39,
+													"height": 26,
 													"text": "Nhập mật khẩu cũ, mới, xác nhận mật khẩu mới",
 													"wordWrap": true
 												},
@@ -20012,7 +20012,7 @@
 											"left": 112,
 											"top": 248,
 											"width": 153.60302734375,
-											"height": 51,
+											"height": 38,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAF+D8WNm15Fstc="
 											},
